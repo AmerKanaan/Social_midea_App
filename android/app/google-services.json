@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151603003226",
+    "project_id": "socialapp-52d88",
+    "storage_bucket": "socialapp-52d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151603003226:android:263d1a8a1369eda6dfbd63",
+        "android_client_info": {
+          "package_name": "com.example.remo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151603003226-7g2jhoskc9h3kog6t2ql00c4l3c43hce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remo",
+            "certificate_hash": "3e1936bc0691116b03b71953a810f95528f4d11f"
+          }
+        },
+        {
+          "client_id": "151603003226-9aaa2cl1bmu9tmm6viasrlrm019khung.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAer_DPdsNpLimzO_Lg-oKToeMbq2x2tDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151603003226-9aaa2cl1bmu9tmm6viasrlrm019khung.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
